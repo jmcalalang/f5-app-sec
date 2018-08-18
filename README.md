@@ -1,5 +1,15 @@
-# f5-app-sec
-Succeeding with application security
+# <img align="center" src="f5.svg" height="64">&nbsp;&nbsp;f5-app-sec
+[![Releases](https://img.shields.io/github/release/ArtiomL/f5-app-sec.svg)](https://github.com/ArtiomL/f5-app-sec/releases)
+[![Commits](https://img.shields.io/github/commits-since/ArtiomL/f5-app-sec/v1.0.0.svg?label=commits%20since)](https://github.com/ArtiomL/f5-app-sec/commits/master)
+[![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)](https://github.com/ArtiomL/f5-app-sec/graphs/code-frequency)
+[![Issues](https://img.shields.io/github/issues/ArtiomL/f5-app-sec.svg)](https://github.com/ArtiomL/f5-app-sec/issues)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Slack Status](https://f5cloudsolutions.herokuapp.com/badge.svg)](https://f5cloudsolutions.herokuapp.com)
+
+&nbsp;&nbsp;
+
+## Table of Contents
+- [Description](#description)
 
 
 Just a list of items / tasks for now:  
