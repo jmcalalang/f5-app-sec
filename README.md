@@ -41,3 +41,5 @@ https://clouddocs.f5.com/training/community/waf/html/class6/class6.html
   
 - [ ] Upload actual ASM policies for each level  
 
+- [ ] WAF Questionnaire
+
