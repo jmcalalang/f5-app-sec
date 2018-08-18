@@ -32,3 +32,12 @@ https://clouddocs.f5.com/training/community/waf/html/class5/class5.html
 WAF Programmability:  
 https://clouddocs.f5.com/training/community/waf/html/class6/class6.html
 
+
+- [ ] ASM Policies Audit Tool  
+  
+- [ ] ASM YouTube Videos  
+  
+- [ ] ASM Word Doc to RtD
+  
+- [ ] Upload actual ASM policies for each level  
+
