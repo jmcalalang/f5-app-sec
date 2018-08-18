@@ -43,3 +43,5 @@ https://clouddocs.f5.com/training/community/waf/html/class6/class6.html
 
 - [ ] WAF Questionnaire
 
+- [ ] ASM Operations Guide
+
