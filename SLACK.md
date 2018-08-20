@@ -1,6 +1,6 @@
 # F5 Slack Workspace Information
 
-F5 has created a [Slack workspace](https://f5cloudsolutions.herokuapp.com) for community discussion and assistance on F5 solutions.  
+F5 has created a [Slack workspace](https://f5cloudsolutions.herokuapp.com) for community discussions and assistance with F5 solutions.  
 This page is to clarify what to expect from the Slack workspace and provide guidelines on usage.
 
 There are F5 employees who are members of the Slack community who typically monitor the workspace Monday to Friday, from 9am to 5pm PST, and will offer ***best-effort assistance***.  
