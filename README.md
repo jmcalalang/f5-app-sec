@@ -45,3 +45,5 @@ https://clouddocs.f5.com/training/community/waf/html/class6/class6.html
 
 - [ ] ASM Operations Guide
 
+- [ ] F5 University ASM training (for Partners)
+
