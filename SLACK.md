@@ -1,7 +1,5 @@
 # F5 Slack Workspace Information
 
-&nbsp;&nbsp;
-
 F5 has created a [Slack workspace](https://f5cloudsolutions.herokuapp.com) for community discussions and assistance with F5 solutions.  
 
 This page is to clarify what to expect from the Slack workspace and provide guidelines on usage.  
