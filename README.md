@@ -45,5 +45,7 @@ https://clouddocs.f5.com/training/community/waf/html/class6/class6.html
 
 - [ ] ASM Operations Guide
 
+- [ ] 2018 Application Protection Report
+
 - [ ] F5 University ASM training (for Partners)
 
